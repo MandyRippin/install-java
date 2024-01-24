@@ -11,7 +11,7 @@ gauge.js
  * Works in all major browsers
  * MIT License
 
-## Usage
+!  Usage
 
 ```javascript
 var opts = {
@@ -21,7 +21,7 @@ var opts = {
     length: 0.9, // Relative to gauge radius
     strokeWidth: 0.035 // The thickness
   },
-  colorStart: '#6FADCF',   // Colors
+  colorStart: '!6FADCF',   // Colors
   colorStop: '#8FC0DA',    // just experiment with them
   strokeColor: '#E0E0E0'   // to see which ones work best for you
 };
@@ -40,3 +40,4 @@ gauge.js can be wrapped to a number of frameworks. Here are some examples:
 
 * **Vue**
   * [vgauge](https://github.com/amroessam/vgauge)
+ 
